@@ -61,24 +61,12 @@ I’m currently exploring areas at the intersection of **software engineering**,
 - **Technologies:** Python, Scikit-learn, XGBoost, Pandas
 - **Key Insights:** Implemented multiple regression techniques including SVR, Random Forest, and XGBoost for predictive analysis. Explored the impact of factors such as GDP, social support, and freedom on happiness scores.
 
-### 2. **Business Intelligence Dashboard for E-Commerce Analytics**
-- **Description:** Designed and implemented a BI dashboard to track e-commerce sales performance and customer behaviors.
-- **Technologies:** Power BI, SQL, Python
-- **Key Insights:** Integrated multiple data sources to create actionable insights. Focused on customer segmentation, sales trends, and predictive forecasting for inventory management.
-
-### 3. **Cloud-based Inventory Management System**
-- **Description:** Developed a full-stack cloud-based inventory management system for a small business.
-- **Technologies:** AWS (Lambda, S3), React.js, Node.js, MongoDB
-- **Key Insights:** Implemented secure, scalable cloud-based features for real-time inventory tracking and reporting, reducing overhead costs and improving data accuracy.
 
 ## Contact
 
 Feel free to reach out to me for collaboration, networking, or any questions you might have.
 
-- **Email:** [Your Email Here]
-- **LinkedIn:** [LinkedIn Profile Link]
-- **GitHub:** [GitHub Profile Link]
-- **Personal Website:** [Your Personal Website (if applicable)]
+- **Email:** JArmandoRomero@icloud.com
 
 ---
 
