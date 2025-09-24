@@ -42,14 +42,13 @@ I’m currently exploring areas at the intersection of **software engineering**,
 
 ### **Master of Science in Computer Science - Software Engineering**
 **University of Tennessee**  
-**Expected Graduation:** [Year]
+**Graduation Year:** 2025
 
 - Core focus areas: Software Engineering, Machine Learning, Cloud Computing, Data Structures and Algorithms, Cybersecurity
 - Notable coursework: Advanced Software Engineering, Data Structures, Algorithms, Cloud Computing, Machine Learning, Artificial Intelligence
 
 ### **Bachelor of Science in Management Information Systems and Business Analytics**
 **Colorado State University**  
-**Graduation Year:** [Year]
 
 - Core focus areas: Information Systems Management, Business Intelligence, Data Analysis, Database Management
 - Relevant coursework: Business Analytics, Database Design, Strategic IT Management, Predictive Analytics
@@ -66,7 +65,7 @@ I’m currently exploring areas at the intersection of **software engineering**,
 
 Feel free to reach out to me for collaboration, networking, or any questions you might have.
 
-- **Email:** JArmandoRomero@icloud.com
+- **Email:** JarrodARomero@icloud.com
 
 ---
 
