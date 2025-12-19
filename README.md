@@ -55,10 +55,56 @@ I’m currently exploring areas at the intersection of **software engineering**,
 
 ## Notable Projects
 
-### 1. **Happiness Score Prediction Model**
-- **Description:** Developed a machine learning model to predict the happiness scores of various countries using socio-cultural and political data.
-- **Technologies:** Python, Scikit-learn, XGBoost, Pandas
-- **Key Insights:** Implemented multiple regression techniques including SVR, Random Forest, and XGBoost for predictive analysis. Explored the impact of factors such as GDP, social support, and freedom on happiness scores.
+### 1. **Predicting Happiness Score: Socio-Cultural & Political Factors in Regional Well-Being**
+- **Description:** Built an end-to-end machine learning pipeline to predict national happiness scores using socio-cultural, economic, and political indicators from the World Happiness Report dataset.
+- **Technologies:** Python, Scikit-learn, Pandas, NumPy
+- **Key Insights:**  
+  - Performed comprehensive data cleaning, missing-value imputation, normalization, and one-hot encoding  
+  - Conducted feature engineering and selection using correlation analysis and f_regression  
+  - Trained and evaluated multiple regression models including Linear Regression, SVR, Random Forest, Gradient Boosting, and Deep Learning scalar regression  
+  - Tuned hyperparameters to reduce overfitting and improve model generalization  
+  - Evaluated model performance using MAE, MSE, and R²  
+  - Created EDA visualizations to analyze relationships between GDP, social support, freedom, corruption perception, mental health, and work-life balance  
+  - Collaborated in an Agile academic team environment  
+
+---
+
+### 2. **GYMBRO TO GO**
+- **Description:** Designed and developed a responsive full-stack web application with scalable backend services and dynamic user experiences.
+- **Technologies:** React, Node.js, Express, MongoDB, Docker, Git
+- **Key Insights:**  
+  - Built RESTful APIs with authentication, validation, and dynamic content rendering  
+  - Containerized services using Docker and deployed to cloud environments  
+  - Followed Agile practices with iterative development and version control using Git  
+
+---
+
+### 3. **Cat Land – 2D Educational Game**
+- **Description:** Developed a 2D top-down educational game for learning Japanese Hiragana using the Godot Engine.
+- **Technologies:** Godot 4.x, GDScript
+- **Key Insights:**  
+  - Implemented player movement, NPC interactions, enemy-style AI logic, collectibles, scoring, and timed challenges  
+  - Built interactive learning mechanics for Hiragana translation under time constraints  
+  - Developed multiple game states including main menu, settings, save/load, pause, tutorial, and leaderboard  
+  - Implemented physics-based boundaries, map exploration, spawn locations, and animations  
+  - Optimized game loops and scene architecture for performance and maintainability  
+  - Applied clean, modular software design principles  
+  - Collaborated in a Scrum-based team environment  
+
+---
+
+## Research Experience
+
+### **Research Paper: Quantum Computing and the Future of Cryptographic Security**
+- **Focus:** Cybersecurity & Applied Cryptography  
+- **Co-Authors:** Aanal Kapadiya, Alec Riden, Jarrod Romero  
+
+- Conducted research on the impact of quantum computing on modern cryptographic systems  
+- Analyzed how Shor’s algorithm and Grover’s algorithm undermine RSA and ECC encryption  
+- Investigated post-quantum cryptography (PQC) and quantum key distribution (QKD)  
+- Reviewed standards and industry efforts toward quantum-resistant encryption  
+- Evaluated scalability, performance, and integration challenges  
+- Contributed to collaborative research writing and technical documentation  
 
 
 ## Contact
