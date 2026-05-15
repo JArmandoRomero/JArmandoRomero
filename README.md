@@ -162,4 +162,4 @@ Focus Areas:
 
 # ⚡ Fun Fact
 
-I enjoy combining technical engineering with real-world problem solving — from AI and cybersecurity research to building full stack travel platforms and scalable software systems.
+Outside of software engineering, I enjoy bodybuilding, fitness, and reef keeping. I’m passionate about discipline, consistency, and building complex systems — whether it’s scalable software, strength training progress, or maintaining thriving saltwater reef ecosystems.
