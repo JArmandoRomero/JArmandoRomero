@@ -22,7 +22,7 @@ I’m passionate about building scalable full stack applications, AI-driven syst
 
 ## Languages
 ```txt
-Python • Java • JavaScript • TypeScript • C++ • SQL • C# • R
+Python • Java • JavaScript • TypeScript • C++ • C# • SQL • R
 ```
 
 ## Frontend
@@ -32,7 +32,7 @@ React • Next.js • Tailwind CSS • HTML5 • CSS3 • Redux
 
 ## Backend
 ```txt
-Node.js • Express.js • Spring Boot • Flask • REST APIs
+Node.js • Express.js • Spring Boot • Flask • .NET • ASP.NET Core • REST APIs
 ```
 
 ## Databases & Cloud
@@ -42,7 +42,7 @@ MongoDB • PostgreSQL • MySQL • Firebase • AWS • Azure • Docker
 
 ## AI / Data Science
 ```txt
-TensorFlow • Scikit-learn • Pandas • NumPy • Matplotlib
+TensorFlow • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV
 ```
 
 ## Tools & Practices
@@ -111,7 +111,7 @@ Virtual memory simulation and systems programming project developed for advanced
 ## 🏋️ AI Exercise Form Tracker
 AI-powered fitness application focused on tracking and evaluating exercise form using computer vision and machine learning.
 
-**Tech:** C#, AI/ML, Computer Vision
+**Tech:** C#, .NET, OpenCV, AI/ML
 
 ---
 
